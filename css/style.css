@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Camphor";
+  src: url("../fonts/CamphorPro-Regular.woff") format("woff");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Camphor";
+  src: url("../fonts/CamphorPro-Bold.woff") format("woff");
+  font-weight: 700;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.text {
+  font-family: "Camphor";
+  font-size: 24px;
+  font-weight: 600;
+}
+.test {
+  font-family: "Camphor";
+  background-color: blue;
+}
